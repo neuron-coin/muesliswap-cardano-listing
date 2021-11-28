@@ -1,0 +1,9 @@
+{
+    "policyId": "d070f6b0e45fc3cd280e21fd4fcac4d59b3d35b23387eb6559455879",
+    "name": "NeuronCoin",
+    "symbol": "NEURON",
+    "website": "https://neuron-coin.github.io",
+    "description": "A Token with 0 value forever! But anyone can have hundreds of billions!",
+    "totalSupply": 9000000000000000000,
+    "amounts": [1000000000, 10000000000, 100000000000, 1000000000000, 10000000000000, 100000000000000]
+}
